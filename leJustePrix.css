@@ -65,9 +65,11 @@ button:hover {
     color: darkred;
 }
 
-img{
-    width: 60%;
-    text-align: center;
+img {
+    width: 100%; 
+    height: auto;
+    max-width: 90%;
+    margin-bottom: 20px;
 }
 
 
